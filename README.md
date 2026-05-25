@@ -26,13 +26,5 @@ Unity 6 ile geliştirdiğim, insanların deprem ve afet çantası bilincini art�
 
 ---
 
-### 📊 Durum Raporu
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevserfarimazz&show_icons=true&theme=tokyonight&count_private=true" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevserfarimazz&layout=compact&theme=tokyonight" width="280" />
-</p>
-
----
-
 ### 📨 İletişim
 Portfolyom veya projeler hakkında konuşmak isterseniz [LinkedIn](https://linkedin.com/in/kevser-farimaz-485a22287) üzerinden bana ulaşabilirsiniz.
